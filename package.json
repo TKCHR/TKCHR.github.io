@@ -1,12 +1,12 @@
 {
-  "name": "best-resume-ever",
+  "name": "TKCHR.github.io",
   "version": "1.0.0",
   "description": "Build fast and easy multiple beautiful resumes and create your best CV ever! ",
-  "author": "salomonelli",
+  "author": "TKCHR",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/salomonelli/best-resume-ever.git"
+    "url": "git+https://github.com/TKCHR/TKCHR.github.io.git"
   },
   "scripts": {
     "dev": "node build/dev-server.js",
